@@ -33,7 +33,7 @@ You need a Koyeb account to successfully deploy and run this application. If you
 
 The fastest way to deploy the Multimodal Vision Chat application is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=example-llava-chainlit&type=git&repository=koyeb%2Fexample-llava-chainlit&branch=main&builder=buildpack&run_command=chainlit+run+app.py&env%5BREPLICATE_API_KEY%5D=CHANGE_ME&env%5BREPLICATE_MODEL%5D=yorickvp/llava-v1.6-mistral-7b&env%5BREPLICATE_MODEL_VERSION%5D=19be067b589d0c46689ffa7cc3ff321447a441986a7694c01225973c2eafc874&ports=8000%3Bhttp%3B%2F)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=example-llava-chainlit&type=git&repository=koyeb%2Fexample-multimodal-vision-chat&branch=main&builder=buildpack&run_command=chainlit+run+app.py&env%5BREPLICATE_API_KEY%5D=CHANGE_ME&env%5BREPLICATE_MODEL%5D=yorickvp/llava-v1.6-mistral-7b&env%5BREPLICATE_MODEL_VERSION%5D=19be067b589d0c46689ffa7cc3ff321447a441986a7694c01225973c2eafc874&ports=8000%3Bhttp%3B%2F)
 
 Clicking on this button brings you to the Koyeb App creation page with everything pre-set to launch this application.
 
