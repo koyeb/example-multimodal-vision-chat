@@ -51,7 +51,7 @@ On the [Koyeb Control Panel](//app.koyeb.com/apps), click the **Create Web Servi
 1. Select GitHub as your deployment method.
 2. Choose the repository where your code resides. For example, ChatbotFastUI.
 3. Under **Builder** configure your Run command by selecting Override and adding the command to run the application with public access: `chainlit run app.py`
-4. Under **Edit environment variables, click Add Variable** button to add your Replicate API key named `REPLICATE_API_KEY` . Add also the `REPLICATE_MODEL` and `REPLICATE_MODEL_VERSION`.
+4. Under **Environment variables**, click **Add variable** to add your Replicate API key named `REPLICATE_API_KEY` . Add also the `REPLICATE_MODEL` and `REPLICATE_MODEL_VERSION`.
 5. In the Instance selection, click “Eco” and select "Free".
 6. Under **App and Service names**, rename your App to whatever you’d like. For example, `vision-chat`. Note the name will be used to create the public URL for this app. You can [add a custom domain](https://www.koyeb.com/docs/run-and-scale/domains) later if you’d like.
 7. Finally, click the Deploy button or hit **⌘**D.
