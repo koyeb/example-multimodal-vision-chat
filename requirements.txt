@@ -52,7 +52,7 @@ python-decouple==3.8
 python-dotenv==1.0.1
 python-engineio==4.9.0
 python-graphql-client==0.4.3
-python-multipart==0.0.6
+python-multipart==0.0.7
 python-socketio==5.11.1
 replicate==0.24.0
 requests==2.31.0
